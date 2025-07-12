@@ -1,0 +1,1 @@
+[{"Code_in_FT": "AIR-A3/BS (A)","Category": "{1234567}","Station": "null","Code_in_T4S": "AIR-A3/BS"},[{"Code_in_FT": "AIR-A3/IRO (Α)","Category": "{1234567}","Station": "","Code_in_T4S": "AIR-A3/IRO"}]
